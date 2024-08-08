@@ -70,8 +70,3 @@ Explore more about this project and others in the Class Project Gallery.
 - [YouTube](#)
 """
 
-# Save the content to a README.md file
-with open('/mnt/data/README.md', 'w') as file:
-    file.write(readme_content)
-
-"/mnt/data/README.md"
