@@ -68,5 +68,4 @@ Explore more about this project and others in the Class Project Gallery.
 - [GitHub Repository](#)
 - [Hugging Face](#)
 - [YouTube](#)
-"""
 
