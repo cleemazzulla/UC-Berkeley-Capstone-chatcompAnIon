@@ -65,7 +65,6 @@ Explore more about this project and others in the Class Project Gallery.
 ## More Information
 
 - [Our Website](https://cleemazzulla.github.io/chatcompAnIon/)
-- [GitHub Repository](#)
-- [Hugging Face](#)
+- [Hugging Face](https://huggingface.co/chatcompanion/compAnIonv1/tree/main)
 - [YouTube](#)
 
